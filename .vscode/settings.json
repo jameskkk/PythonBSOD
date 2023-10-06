@@ -1,0 +1,13 @@
+{
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    // "python.pythonPath": "C:/Python311/python.exe",
+    // "python.autoComplete.extraPaths": [
+    //     "C:/Python311/Lib/site-packages"
+    // ],
+    // "python.analysis.extraPaths": [
+    //   "./Lib/site-packages",
+    //   "C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python39_64/Lib/site-packages",
+    //   "C:/Users/TB290393/AppData/Roaming/Python/Python39/Scripts"
+    // ]
+  }
